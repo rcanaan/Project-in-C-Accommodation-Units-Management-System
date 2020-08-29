@@ -1,0 +1,874 @@
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\addGuestRequest.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\addGuestRequest.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\addGuestRequest.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\addGuestRequest.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateGuestRequest.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateGuestRequest.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\addGuestRequest.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateGuestRequest.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\addGuestRequest.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateGuestRequest.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\addGuestRequest.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateGuestRequest.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\addGuestRequest.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateGuestRequest.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\Order.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PersonalArea.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\Order.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PersonalArea.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\Order.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PersonalArea.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateGuestRequest.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\Order.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PersonalArea.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateGuestRequest.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\App.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\PL.exe.config
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\GuestRequest.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\MainWindow.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PL.g.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PersonalArea.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitFunc.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\OrderFunc.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PersonalArea.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\OrderOptions.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\AddOrder.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\AddOrder.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\OrderList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\WebManager.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\App.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\PL.exe.config
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\BankBranckList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\GuestRequest.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\MainWindow.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\OrderOptions.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\OrderList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\WebManager.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PL.g.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+Z:\מיני פרויקט\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\OrderList.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\WebManager.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\BankBranckList.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\OrderOptions.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\OrderList.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\WebManager.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\rcanaan\Desktop\TzimerProject\PL\obj\Debug\PL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\OrderList.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\WebManager.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\BankBranckList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\OrderOptions.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\OrderList.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\WebManager.baml
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\OrderList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\WebManager.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\BankBranckList.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\OrderList.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\WebManager.baml
+C:\Users\avshitri\Desktop\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MoreFunctions.g.cs
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MoreFunctions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MoreFunctions.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\BankBranckList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequest.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\GuestRequestList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\HostingUnitOptions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MoreFunctions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderOptions.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\OrderList.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\updateHostingUnit.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\UpdateOrder.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManager.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\WebManagerEntry.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb

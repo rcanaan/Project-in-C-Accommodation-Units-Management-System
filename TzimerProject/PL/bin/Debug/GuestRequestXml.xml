@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GuestRequests>
+  <GuestRequests>
+    <GuestRequestKey>10000000</GuestRequestKey>
+    <PrivateName>rinat</PrivateName>
+    <FamilyName>canaan</FamilyName>
+    <Status>ACTIVE</Status>
+    <MailAddress>rinat@gmail.com</MailAddress>
+    <Status>ACTIVE</Status>
+    <RegistrationDate>2020-01-17T00:10:46.7287765+02:00</RegistrationDate>
+    <EntryDate>2020-01-17T00:00:00</EntryDate>
+    <ReleaseDate>2020-01-18T00:00:00</ReleaseDate>
+    <Area>NORTH</Area>
+    <SubArea>GALIL</SubArea>
+    <Type>ZIMMER</Type>
+    <Adults>2</Adults>
+    <Children>2</Children>
+    <pool>NECESSARY</pool>
+    <jacuzzi>NECESSARY</jacuzzi>
+    <garden>NOT_INTERESTED</garden>
+    <childAttractions>POSSIBLE</childAttractions>
+  </GuestRequests>
+  <GuestRequests>
+    <GuestRequestKey>10000004</GuestRequestKey>
+    <PrivateName>avishag</PrivateName>
+    <FamilyName>chitrit</FamilyName>
+    <Status>ACTIVE</Status>
+    <MailAddress>avishag@gmail.com</MailAddress>
+    <Status>ACTIVE</Status>
+    <RegistrationDate>2020-01-17T12:18:00.0882013+02:00</RegistrationDate>
+    <EntryDate>2020-01-17T00:00:00</EntryDate>
+    <ReleaseDate>2020-01-18T00:00:00</ReleaseDate>
+    <Area>NORTH</Area>
+    <SubArea>GALIL</SubArea>
+    <Type>HROOM</Type>
+    <Adults>3</Adults>
+    <Children>2</Children>
+    <pool>NECESSARY</pool>
+    <jacuzzi>NECESSARY</jacuzzi>
+    <garden>NECESSARY</garden>
+    <childAttractions>NECESSARY</childAttractions>
+  </GuestRequests>
+</GuestRequests>

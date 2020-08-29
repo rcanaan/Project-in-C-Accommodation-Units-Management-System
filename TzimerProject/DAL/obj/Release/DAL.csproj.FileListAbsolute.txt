@@ -1,0 +1,11 @@
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\bin\Release\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\bin\Release\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\bin\Release\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\bin\Release\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\bin\Release\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\bin\Release\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\obj\Release\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\DAL\obj\Release\DAL.pdb

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order>
+    <orderkey>10000000</orderkey>
+    <GuestRequestKey>10000000</GuestRequestKey>
+    <HostingUnitKey>10000000</HostingUnitKey>
+    <Status>EMAIL_SENT</Status>
+    <CreateDate>2020-01-26T13:17:35.6614902+02:00</CreateDate>
+    <OrderDate>2020-01-26T13:17:26.0681011+02:00</OrderDate>
+  </Order>
+  <Order>
+    <orderkey>10000002</orderkey>
+    <GuestRequestKey>10000002</GuestRequestKey>
+    <HostingUnitKey>10000007</HostingUnitKey>
+    <Status>EMAIL_SENT</Status>
+    <CreateDate>2020-01-26T17:17:14.6608698+02:00</CreateDate>
+    <OrderDate>2020-01-26T17:17:14.6578501+02:00</OrderDate>
+  </Order>
+  <Order>
+    <orderkey>10000006</orderkey>
+    <GuestRequestKey>10000005</GuestRequestKey>
+    <HostingUnitKey>10000017</HostingUnitKey>
+    <Status>EMAIL_SENT</Status>
+    <CreateDate>2020-01-26T20:31:40.5539738+02:00</CreateDate>
+    <OrderDate>2020-01-26T20:31:40.5240202+02:00</OrderDate>
+  </Order>
+  <Order>
+    <orderkey>10000018</orderkey>
+    <GuestRequestKey>10000009</GuestRequestKey>
+    <HostingUnitKey>10000030</HostingUnitKey>
+    <Status>EMAIL_SENT</Status>
+    <CreateDate>2020-01-27T20:16:06.9131059+02:00</CreateDate>
+    <OrderDate>2020-01-27T20:16:06.8791487+02:00</OrderDate>
+  </Order>
+  <Order>
+    <orderkey>10000026</orderkey>
+    <GuestRequestKey>10000036</GuestRequestKey>
+    <HostingUnitKey>10000048</HostingUnitKey>
+    <Status>EMAIL_SENT</Status>
+    <CreateDate>2020-04-03T00:12:25.7938751+03:00</CreateDate>
+    <OrderDate>2020-04-03T00:12:25.7712461+03:00</OrderDate>
+  </Order>
+</Orders>

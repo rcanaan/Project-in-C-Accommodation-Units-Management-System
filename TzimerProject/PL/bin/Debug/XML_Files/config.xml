@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configs>
+  <_GuestRequestKey>10000043</_GuestRequestKey>
+  <_HostKey>10000110</_HostKey>
+  <_HostingUnitKey>10000074</_HostingUnitKey>
+  <_OrderKey>10000036</_OrderKey>
+  <_Fee>10</_Fee>
+  <MailAddress>hosttzimerproject@gmail.com</MailAddress>
+  <MailPassWord>5780_TzimerProject</MailPassWord>
+  <DateToday>28/01/2020 00:00:00</DateToday>
+  <IsClearOrdrs>False</IsClearOrdrs>
+</Configs>

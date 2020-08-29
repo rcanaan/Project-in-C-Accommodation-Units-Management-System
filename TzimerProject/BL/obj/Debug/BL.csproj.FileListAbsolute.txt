@@ -1,0 +1,295 @@
+Z:\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+Z:\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+Z:\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+Z:\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+Z:\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+Z:\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+Z:\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Z:\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+Z:\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+Z:\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\BL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\BL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\BL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\BL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\BL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\BL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\BL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\BL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\BL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+Z:\offical project\TzimerProject\BL\obj\Debug\BL.dll
+Z:\offical project\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Z:\offical project\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\offical project\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\obj\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\obj\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\obj\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\פרוייקט מרינת\TzimerProject\BL\obj\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\avshitri\Desktop\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+D:\אבישג מחשבים\מיני פרוייקט במערכת חלונות\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\rcanaan\Downloads\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\rcanaan\Desktop\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\rcanaan\Desktop\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\rcanaan\Desktop\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\rcanaan\Desktop\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\rcanaan\Desktop\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\rcanaan\Desktop\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\rcanaan\Desktop\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\rcanaan\Desktop\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\rcanaan\Desktop\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\2\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\avshitri\Desktop\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\avshitri\Desktop\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\avshitri\Desktop\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\avshitri\Desktop\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\avshitri\Desktop\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\avshitri\Desktop\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\avshitri\Desktop\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\avshitri\Desktop\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\avshitri\Desktop\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\avshitri\Desktop\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\avshitri\Desktop\TzimerProject\BL\obj\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Debug\BL.pdb

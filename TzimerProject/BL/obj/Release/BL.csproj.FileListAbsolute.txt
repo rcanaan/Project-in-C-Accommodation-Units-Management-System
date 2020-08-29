@@ -1,0 +1,13 @@
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Release\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Release\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Release\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Release\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Release\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Release\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Release\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\bin\Release\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Release\BL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Release\BL.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Release\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject(1)\TzimerProject\TzimerProject\TzimerProject\TzimerProject\BL\obj\Release\BL.pdb

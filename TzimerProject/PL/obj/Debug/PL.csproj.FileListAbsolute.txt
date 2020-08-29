@@ -1,0 +1,134 @@
+Z:\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+Z:\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+Z:\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+Z:\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+Z:\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+Z:\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+Z:\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL.csprojAssemblyReference.cache
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.GenerateResource.cache
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.CopyComplete
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+Z:\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\PL\obj\Debug\PL.pdb
+Z:\offical project\TzimerProject\PL\bin\Debug\PL.exe.config
+Z:\offical project\TzimerProject\PL\bin\Debug\PL.exe
+Z:\offical project\TzimerProject\PL\bin\Debug\PL.pdb
+Z:\offical project\TzimerProject\PL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\PL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\PL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\PL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\PL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\PL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\PL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\PL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+Z:\offical project\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+Z:\offical project\TzimerProject\PL\obj\Debug\App.g.cs
+Z:\offical project\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+Z:\offical project\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+Z:\offical project\TzimerProject\PL\obj\Debug\MainWindow.baml
+Z:\offical project\TzimerProject\PL\obj\Debug\PL.g.resources
+Z:\offical project\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+Z:\offical project\TzimerProject\PL\obj\Debug\PL.csproj.GenerateResource.Cache
+Z:\offical project\TzimerProject\PL\obj\Debug\PL.exe
+Z:\offical project\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\רינת כנען\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט\project\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+C:\Users\avshitri\Downloads\TzimerProject\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe.config
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\PL.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\BE.dll
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\BL.dll
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\DAL.dll
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\DS.dll
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\BE.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\BL.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\DAL.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\bin\Debug\DS.pdb
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.csprojAssemblyReference.cache
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\App.g.cs
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.cache
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL_MarkupCompile.lref
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\MainWindow.baml
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.g.resources
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.Properties.Resources.resources
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.GenerateResource.cache
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.csproj.CopyComplete
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.exe
+Z:\offical project\TzimerProject\TzimerProject\PL\obj\Debug\PL.pdb
